@@ -1,19 +1,16 @@
 ## Hola, I'm [MahMUD!](https://www.facebook.com/ntkhang03) 👋
-<h3 align="center">I am a student and developer from Vietnam.</h3>
+<h3 align="center">I am a student and developer from Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudx7&label=Views&color=blue&style=plastic" alt="ntkhang" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudx7&label=Views&color=blue&style=plastic" alt="MahMUD" /> </p>
 
-<a href="https://x.com/ntkhang03">
-  <img align="left" alt="NTKhang's X" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/x.svg"/>
-</a>
-<a href="https://github.com/ntkhang03">
-  <img align="left" alt="NTKhang's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/mahmudx7">
+  <img align="left" alt="MahMUD's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/nthanhkhang2003">
-  <img align="left" alt="NTKhang's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="MahMUD's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/ntkhang03">
-  <img align="left" alt="NTKhang's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="MahMUD's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/ntkhang03">
   <img align="left" alt="NTKhang's Youtube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
@@ -22,11 +19,11 @@
 <br/>
 <br/>
 
-## 📫 How to reach me:
+## 📫 how Contact me:
 
-| Facebook | Telegram | X | Youtube |
+| Facebook | Telegram  | Youtube |
 | :---: | :---: | :---: | :---: |
-| <a href="https://www.facebook.com/100010382497517/"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg" width="200"/></a><p><b><a href="https://www.facebook.com/100010382497517/">NTKhang03</a></b></p> | <a href="https://t.me/ntkhang03"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg" width="200"/></a><p><b><a href="https://t.me/ntkhang03">NTKhang03</a></b></p> | <a href="https://x.com/ntkhang03"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-x.svg" width="200"/></a><p><b><a href="https://x.com/ntkhang03">NTKhang03</a></b></p> | <a href="https://www.youtube.com/c/NTKhang03"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg" width="200"/></a><p><b><a href="https://www.youtube.com/c/NTKhang03">NTKhang03</a></b></p> |
+| <a href="https://www.facebook.com/100010382497517/"><img src="https://raw.githubusercontent.com/mahmudx7/mahmudx7/main/sources/qr-fb.svg" width="200"/></a><p><b><a href="https://www.facebook.com/100010382497517/">NTKhang03</a></b></p> | <a href="https://t.me/ntkhang03"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg" width="200"/></a><p><b><a href="https://t.me/ntkhang03">NTKhang03</a></b></p> | <a href="https://x.com/ntkhang03"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-x.svg" width="200"/></a><p><b><a href="https://x.com/ntkhang03">NTKhang03</a></b></p> | <a href="https://www.youtube.com/c/NTKhang03"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg" width="200"/></a><p><b><a href="https://www.youtube.com/c/NTKhang03">NTKhang03</a></b></p> |
 
 <!-- email -->
 **✉️ Email:** nthanhkhang2003@gmail.com
