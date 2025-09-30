@@ -1,4 +1,4 @@
-npm ## Hola, I'm [MahMUD!](https://www.facebook.com/mahmud.x07) 👋
+## Hola, I'm [MahMUD!](https://www.facebook.com/mahmud.x07) 👋
 <h3 align="center">I am a student and developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudx7&label=Views&color=blue&style=plastic" alt="mahmudx7" /> </p>
@@ -26,10 +26,10 @@ npm ## Hola, I'm [MahMUD!](https://www.facebook.com/mahmud.x07) 👋
 
 | Facebook | Telegram | X | Youtube |
 | :---: | :---: | :---: | :---: |
-| <a href="https://www.facebook.com/mahmud.x07"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg" width="200"/></a><p><b><a href="https://www.facebook.com/mahmud.x07">MahMUD</a></b></p> | <a href="https://t.me/mahmudx7"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg" width="200"/></a><p><b><a href="https://t.me/mahmudx7">MahMUD</a></b></p> | <a href="https://x.com/mahmudx7"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-x.svg" width="200"/></a><p><b><a href="https://x.com/mahmudx7">MahMUD</a></b></p> | <a href="https://www.youtube.com/@mahmudx7"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg" width="200"/></a><p><b><a href="https://www.youtube.com/@mahmudx7">MahMUD</a></b></p> |
+| <a href="https://www.facebook.com/mahmud.x07"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg" width="200"/></a><p><b><a href="https://www.facebook.com/mahmud.x07">MahMUD</a></b></p> | <a href="https://t.me/mahmudx7"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg" width="200"/></a><p><b><a href="https://t.me/mahmudx7">MahMUD</a></b></p> | <a href="https://x.com/mahmudx7"><img src="https://raw.githubusercontent.com/mahmudx7/mahmudx7/main/sources/qr-x.svg" width="200"/></a><p><b><a href="https://x.com/mahmudx7">MahMUD</a></b></p> | <a href="https://www.youtube.com/@mahmudx7"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg" width="200"/></a><p><b><a href="https://www.youtube.com/@mahmudx7">MahMUD</a></b></p> |
 
 <!-- email -->
-**✉️ Email:** mahmud.dev.bd@gmail.com
+**✉️ Email:** mahmudx077@gmail.com
 
 [![X: MahMUD](https://img.shields.io/twitter/follow/mahmudx7)](https://x.com/mahmudx7)
 [![GitHub: mahmudx7](https://img.shields.io/github/followers/mahmudx7?label=follow&style=social)](https://github.com/mahmudx7)
@@ -39,12 +39,11 @@ npm ## Hola, I'm [MahMUD!](https://www.facebook.com/mahmud.x07) 👋
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="background: #000;"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"></code>
+<code><img height="30" 
 
 **Tools used:**
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"></code>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></code>
+<code><img height="30" 
 
 ## 📶 Github Stats
 <p align="center">
