@@ -1,4 +1,4 @@
-## Hola, I'm [MahMUD!](https://www.facebook.com/mahmud.x07) 👋
+npm ## Hola, I'm [MahMUD!](https://www.facebook.com/mahmud.x07) 👋
 <h3 align="center">I am a student and developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudx7&label=Views&color=blue&style=plastic" alt="mahmudx7" /> </p>
@@ -65,6 +65,6 @@
   <br>
 
   <a href="https://github.com/mahmudx7/Goat-Bot-V2">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudx7&repo=Goat-Bot-V2&theme=github_dark" style="margin-top: 10px;"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudx7&repo=exe&theme=github_dark" style="margin-top: 10px;"/>
   </a>
 </p>
