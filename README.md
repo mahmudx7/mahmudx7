@@ -61,9 +61,6 @@
   <br>
   <br>
 
-  <a href="https://github.com/fb-chat-api/fb-chat-api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fb-chat-api&repo=fb-chat-api&theme=github_dark" style="margin-top: 10px;"/>
-  </a>
   <a href="https://github.com/ntkhang03/Goat-Bot-V2">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntkhang03&repo=Goat-Bot-V2&theme=github_dark" style="margin-top: 10px;"/>
   </a>
