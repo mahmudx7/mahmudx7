@@ -12,7 +12,7 @@
 <a href="https://instagram.com/mahmud.x07">
   <img align="left" alt="MahMUD's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/mahmud.x07">
+<a href="https://www.facebook.com/mahmudexe">
   <img align="left" alt="MahMUD's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/@mahmudx7">
@@ -26,7 +26,7 @@
 
 | Facebook | Telegram | X | Youtube |
 | :---: | :---: | :---: | :---: |
-| <a href="https://www.facebook.com/mahmud.x07"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg" width="200"/></a><p><b><a href="https://www.facebook.com/mahmud.x07">MahMUD</a></b></p> | <a href="https://t.me/mahmudx7"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg" width="200"/></a><p><b><a href="https://t.me/mahmudx7">MahMUD</a></b></p> | <a href="https://x.com/mahmudx7"><img src="https://raw.githubusercontent.com/mahmudx7/mahmudx7/main/sources/qr-x.svg" width="200"/></a><p><b><a href="https://x.com/mahmudx7">MahMUD</a></b></p> | <a href="https://www.youtube.com/@mahmudx7"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg" width="200"/></a><p><b><a href="https://www.youtube.com/@mahmudx7">MahMUD</a></b></p> |
+| <a href="https://www.facebook.com/mahmudexe"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg" width="200"/></a><p><b><a href="https://www.facebook.com/mahmudexe">MahMUD</a></b></p> | <a href="https://t.me/mahmudx7"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg" width="200"/></a><p><b><a href="https://t.me/mahmudx7">MahMUD</a></b></p> | <a href="https://x.com/mahmudx7"><img src="https://raw.githubusercontent.com/mahmudx7/mahmudx7/main/sources/qr-x.svg" width="200"/></a><p><b><a href="https://x.com/mahmudx7">MahMUD</a></b></p> | <a href="https://www.youtube.com/@mahmudx7"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg" width="200"/></a><p><b><a href="https://www.youtube.com/@mahmudx7">MahMUD</a></b></p> |
 
 <!-- email -->
 **✉️ Email:** mahmudx077@gmail.com
