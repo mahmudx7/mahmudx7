@@ -64,7 +64,7 @@
   <br>
   <br>
 
-  <a href="https://github.com/mahmudx7/Goat-Bot-V2">
+  <a href="https://github.com/mahmudx7/hinata-bot-v3">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudx7&repo=exe&theme=github_dark" style="margin-top: 10px;"/>
   </a>
 </p>
