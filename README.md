@@ -18,18 +18,26 @@
 <a href="https://www.youtube.com/@mahmudx7">
   <img align="left" alt="MahMUD's Youtube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+<a href="https://wa.me/8801836298139">
+  <img align="left" alt="MahMUD's WhatsApp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+<a href="https://mahmud-exe.onrender.com/">
+  <img align="left" alt="MahMUD's Portfolio" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
+</a>
 
 <br/>
 <br/>
 
 ## 📫 How to reach me:
 
-| Facebook | Telegram | X | Youtube |
-| :---: | :---: | :---: | :---: |
-| <a href="https://www.facebook.com/mahmudexe"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg" width="200"/></a><p><b><a href="https://www.facebook.com/mahmudexe">MahMUD</a></b></p> | <a href="https://t.me/mahmudx7"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg" width="200"/></a><p><b><a href="https://t.me/mahmudx7">MahMUD</a></b></p> | <a href="https://x.com/mahmudx7"><img src="https://raw.githubusercontent.com/mahmudx7/mahmudx7/main/sources/qr-x.svg" width="200"/></a><p><b><a href="https://x.com/mahmudx7">MahMUD</a></b></p> | <a href="https://www.youtube.com/@mahmudx7"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg" width="200"/></a><p><b><a href="https://www.youtube.com/@mahmudx7">MahMUD</a></b></p> |
+| Facebook | Telegram | X | Youtube | WhatsApp | Portfolio |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <a href="https://www.facebook.com/mahmudexe"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg" width="200"/></a><p><b><a href="https://www.facebook.com/mahmudexe">MahMUD</a></b></p> | <a href="https://t.me/mahmudx7"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg" width="200"/></a><p><b><a href="https://t.me/mahmudx7">MahMUD</a></b></p> | <a href="https://x.com/mahmudx7"><img src="https://raw.githubusercontent.com/mahmudx7/mahmudx7/main/sources/qr-x.svg" width="200"/></a><p><b><a href="https://x.com/mahmudx7">MahMUD</a></b></p> | <a href="https://www.youtube.com/@mahmudx7"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg" width="200"/></a><p><b><a href="https://www.youtube.com/@mahmudx7">MahMUD</a></b></p> | <a href="https://wa.me/8801836298139"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="200"/></a><p><b><a href="https://wa.me/8801836298139">MahMUD</a></b></p> | <a href="https://mahmud-exe.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" width="200"/></a><p><b><a href="https://mahmud-exe.onrender.com/">mahmud-exe.onrender.com</a></b></p> |
 
 <!-- email -->
-**✉️ Email:** mahmudx077@gmail.com
+**✉️ Email:** mahmudx077@gmail.com  
+**🌐 Portfolio:** [mahmud-exe.onrender.com](https://mahmud-exe.onrender.com/)  
+**💬 WhatsApp:** [+880 1836-298139](https://wa.me/8801836298139)
 
 [![X: MahMUD](https://img.shields.io/twitter/follow/mahmudx7)](https://x.com/mahmudx7)
 [![GitHub: mahmudx7](https://img.shields.io/github/followers/mahmudx7?label=follow&style=social)](https://github.com/mahmudx7)
