@@ -15,7 +15,7 @@
 <a href="https://www.facebook.com/mahmudexe">
   <img align="left" alt="MahMUD's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/@mahmudx7">
+<a href="https://www.youtube.com/@hinatabotofficial">
   <img align="left" alt="MahMUD's Youtube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://wa.me/8801836298139">
