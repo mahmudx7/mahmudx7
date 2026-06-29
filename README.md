@@ -1,4 +1,4 @@
-p>## Hola, I'm [MahMUD!](https://www.facebook.com/mahmud.x07) 👋
+## Hola, I'm [MahMUD!](https://www.facebook.com/mahmud.x07) 👋
 <h3 align="center">I am a student and developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudx7&label=Views&color=blue&style=plastic" alt="mahmudx7" /> </p>
