@@ -32,9 +32,11 @@
 | <a href="https://www.facebook.com/mahmudexe"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg" width="200"/></a><p><b><a href="https://www.facebook.com/mahmudexe">MahMUD</a></b></p> | <a href="https://www.youtube.com/@mahmudx7"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg" width="200"/></a><p><b><a href="https://www.youtube.com/@mahmudx7">MahMUD</a></b></p> | <a href="https://wa.me/8801836298139"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="200"/></a><p><b><a href="https://wa.me/8801836298139">MahMUD</a></b></p> | <a href="https://mahmud-exe.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" width="200"/></a><p><b><a href="https://mahmud-exe.onrender.com/">mahmud-exe.onrender.com</a></b></p> |
 
 <!-- email -->
-**✉️ Email:** mahmudx077@gmail.com  
-**🌐 Portfolio:** [mahmud-exe.onrender.com](https://mahmud-exe.onrender.com/)  
-**💬 WhatsApp:** [+880 1836-298139](https://wa.me/8801836298139)
+<p align="left">
+  <a href="mailto:mahmudx077@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://mahmud-exe.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://wa.me/8801836298139"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
 
 [![GitHub: mahmudx7](https://img.shields.io/github/followers/mahmudx7?label=follow&style=social)](https://github.com/mahmudx7)
 
