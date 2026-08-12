@@ -38,6 +38,12 @@
 
 [![GitHub: mahmudx7](https://img.shields.io/github/followers/mahmudx7?label=follow&style=social)](https://github.com/mahmudx7)
 
+## 🚀 Projects
+
+- **Mahmud Bot** — [hinata-bot-v3](https://github.com/mahmudx7/hinata-bot-v3), ekta custom chat/facebook messenger bot project.
+- **Mahmud API** — Personal REST API project, backend service banano hoyeche Node.js diye.
+- **Mahmud FCA** — Facebook Chat API (fca) based automation script/module.
+
 <!-- learned -->
 **Learned Languages and Frameworks:**
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="background: #000;"></code>
