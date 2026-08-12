@@ -40,10 +40,21 @@
 
 ## 🚀 Projects
 
-- **Mahmud REST API** — My personal REST API, live at [mahmud-exe.onrender.com/rest](https://mahmud-exe.onrender.com/rest)
-- **Free Goatbot Commands** — Grab free Goatbot commands at [mahmud-exe.onrender.com/cmds](https://mahmud-exe.onrender.com/cmds)
-- **Mahmud-FCA** — Facebook Chat API module: [github.com/mahmudx7/mahmud-fca](https://github.com/mahmudx7/mahmud-fca)
-- **Mahmud Bot** — [hinata-bot-v3](https://github.com/mahmudx7/hinata-bot-v3), a custom chat/Facebook Messenger bot project
+<p align="left">
+  <a href="https://mahmud-exe.onrender.com/rest"><img src="https://img.shields.io/badge/Mahmud%20REST%20API-4285F4?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
+  <a href="https://mahmud-exe.onrender.com/cmds"><img src="https://img.shields.io/badge/Free%20Goatbot%20Commands-25D366?style=for-the-badge&logo=googlechat&logoColor=white"/></a>
+</p>
+<p align="left">
+  <a href="https://github.com/mahmudx7/mahmud-fca"><img src="https://img.shields.io/badge/Mahmud--FCA-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/mahmudx7/hinata-bot-v3"><img src="https://img.shields.io/badge/Mahmud%20Bot-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **Mahmud REST API** | My personal REST API | [mahmud-exe.onrender.com/rest](https://mahmud-exe.onrender.com/rest) |
+| **Free Goatbot Commands** | Grab free Goatbot commands | [mahmud-exe.onrender.com/cmds](https://mahmud-exe.onrender.com/cmds) |
+| **Mahmud-FCA** | Facebook Chat API module | [github.com/mahmudx7/mahmud-fca](https://github.com/mahmudx7/mahmud-fca) |
+| **Mahmud Bot** | Custom chat/Facebook Messenger bot | [hinata-bot-v3](https://github.com/mahmudx7/hinata-bot-v3) |
 
 <!-- learned -->
 **Learned Languages and Frameworks:**
@@ -59,23 +70,23 @@
 
 ## 📶 Github Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmudx7">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahmudx7&theme=darkhub&no-frame=true&cache_seconds=86400">
   <br>
   <br>
   
   <a href="https://github.com/mahmudx7">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudx7&theme=blue-green" style="margin-top: 10px;"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudx7&theme=github_dark&cache_seconds=86400&hide_border=true" style="margin-top: 10px;"/>
   </a>
   <br>
   <br>
   
   <a href="https://github.com/mahmudx7">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudx7&show_icons=true&theme=github_dark&line_height=27" alt="MahMUD's github stats" style="margin-top: 10px;"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudx7&show_icons=true&theme=github_dark&line_height=27&cache_seconds=86400&hide_border=true" alt="MahMUD's github stats" style="margin-top: 10px;"/>
   </a>
   <br>
   <br>
 
   <a href="https://github.com/mahmudx7/hinata-bot-v3">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudx7&repo=exe&theme=github_dark" style="margin-top: 10px;"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudx7&repo=hinata-bot-v3&theme=github_dark&cache_seconds=86400&hide_border=true" style="margin-top: 10px;"/>
   </a>
 </p>
