@@ -42,11 +42,15 @@
 
 <p align="left">
   <a href="https://mahmud-exe.onrender.com/rest"><img src="https://img.shields.io/badge/Mahmud%20REST%20API-4285F4?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
+</p>
+<p align="left">
   <a href="https://mahmud-exe.onrender.com/cmds"><img src="https://img.shields.io/badge/Free%20Goatbot%20Commands-25D366?style=for-the-badge&logo=googlechat&logoColor=white"/></a>
 </p>
 <p align="left">
   <a href="https://github.com/mahmudx7/mahmud-fca"><img src="https://img.shields.io/badge/Mahmud--FCA-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/mahmudx7/hinata-bot-v3"><img src="https://img.shields.io/badge/Mahmud%20Bot-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+<p align="left">
+  <a href="https://github.com/mahmudx7/hinata-bot-v3"><img src="https://img.shields.io/badge/Hinata%20Bot-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 | Project | Description | Link |
@@ -54,7 +58,7 @@
 | **Mahmud REST API** | My personal REST API | [mahmud-exe.onrender.com/rest](https://mahmud-exe.onrender.com/rest) |
 | **Free Goatbot Commands** | Grab free Goatbot commands | [mahmud-exe.onrender.com/cmds](https://mahmud-exe.onrender.com/cmds) |
 | **Mahmud-FCA** | Facebook Chat API module | [github.com/mahmudx7/mahmud-fca](https://github.com/mahmudx7/mahmud-fca) |
-| **Mahmud Bot** | Custom chat/Facebook Messenger bot | [hinata-bot-v3](https://github.com/mahmudx7/hinata-bot-v3) |
+| **Hinata Bot** | Custom chat/Facebook Messenger bot | [hinata-bot-v3](https://github.com/mahmudx7/hinata-bot-v3) |
 
 <!-- learned -->
 **Learned Languages and Frameworks:**
