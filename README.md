@@ -1,9 +1,9 @@
 ## Hola, I'm [MahMUD!](https://www.facebook.com/mahmud.x07) 👋
 <h3 align="center">I am a student and developer from Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudx7&label=Views&color=blue&style=plastic" alt="mahmudx7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmud-aura&label=Views&color=blue&style=plastic" alt="mahmud-aura" /> </p>
 
-<a href="https://github.com/mahmudx7">
+<a href="https://github.com/mahmud-aura">
   <img align="left" alt="MahMUD's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/mahmud.x07">
@@ -31,7 +31,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 | <a href="https://www.facebook.com/mahmudexe"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg" width="200"/></a><p><b><a href="https://www.facebook.com/mahmudexe">MahMUD</a></b></p> | <a href="https://www.youtube.com/@mahmudx7"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg" width="200"/></a><p><b><a href="https://www.youtube.com/@mahmudx7">MahMUD</a></b></p> | <a href="https://wa.me/8801836298139"><img src="https://quickchart.io/qr?text=https%3A%2F%2Fwa.me%2F8801836298139&size=200&margin=1&dark=25D366&centerImageUrl=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F100%2Fwhatsapp--v1.png&centerImageSizeRatio=0.28" width="200"/></a><p><b><a href="https://wa.me/8801836298139">MahMUD</a></b></p> | <a href="https://mahmud-exe.onrender.com/"><img src="https://quickchart.io/qr?text=https%3A%2F%2Fmahmud-exe.onrender.com%2F&size=200&margin=1&dark=4285F4&centerImageUrl=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F100%2Fchrome--v1.png&centerImageSizeRatio=0.28" width="200"/></a><p><b><a href="https://mahmud-exe.onrender.com/">MahMUD</a></b></p> | <a href="mailto:mahmudx077@gmail.com"><img src="https://quickchart.io/qr?text=mailto%3Amahmudx077%40gmail.com&size=200&margin=1&dark=D14836&centerImageUrl=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F100%2Fgmail--v1.png&centerImageSizeRatio=0.28" width="200"/></a><p><b><a href="mailto:mahmudx077@gmail.com">MahMUD</a></b></p> |
 
-[![GitHub: mahmudx7](https://img.shields.io/github/followers/mahmudx7?label=follow&style=social)](https://github.com/mahmudx7)
+[![GitHub: mahmud-aura](https://img.shields.io/github/followers/mahmud-aura?label=follow&style=social)](https://github.com/mahmud-aura)
 
 ## 🚀 Projects
 
@@ -42,18 +42,18 @@
   <a href="https://mahmud-exe.onrender.com/cmds"><img src="https://img.shields.io/badge/Free%20Goatbot%20Commands-25D366?style=for-the-badge&logo=googlechat&logoColor=white"/></a>
 </p>
 <p align="left">
-  <a href="https://github.com/mahmudx7/mahmud-fca"><img src="https://img.shields.io/badge/Mahmud--FCA-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/mahmud-aura/mahmud-fca"><img src="https://img.shields.io/badge/Mahmud--FCA-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 <p align="left">
-  <a href="https://github.com/mahmudx7/hinata-bot-v3"><img src="https://img.shields.io/badge/Hinata%20Bot-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/mahmud-aura/hinata-bot-v3"><img src="https://img.shields.io/badge/Hinata%20Bot-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
 | **Mahmud REST API** | My personal REST API | [mahmud-exe.onrender.com/rest](https://mahmud-exe.onrender.com/rest) |
 | **Free Goatbot Commands** | Grab free Goatbot commands | [mahmud-exe.onrender.com/cmds](https://mahmud-exe.onrender.com/cmds) |
-| **Mahmud-FCA** | Facebook Chat API module | [github.com/mahmudx7/mahmud-fca](https://github.com/mahmudx7/mahmud-fca) |
-| **Hinata Bot** | Custom chat/Facebook Messenger bot | [hinata-bot-v3](https://github.com/mahmudx7/hinata-bot-v3) |
+| **Mahmud-FCA** | Facebook Chat API module | [github.com/mahmud-aura/mahmud-fca](https://github.com/mahmud-aura/mahmud-fca) |
+| **Hinata Bot** | Custom chat/Facebook Messenger bot | [hinata-bot-v3](https://github.com/mahmud-aura/hinata-bot-v3) |
 
 <!-- learned -->
 **Learned Languages and Frameworks:**
@@ -69,23 +69,23 @@
 
 ## 📶 Github Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmudx7&theme=darkhub&no-frame=true&cache_seconds=86400">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahmud-aura&theme=darkhub&no-frame=true&cache_seconds=86400">
   <br>
   <br>
   
-  <a href="https://github.com/mahmudx7">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudx7&theme=github_dark&cache_seconds=86400&hide_border=true" style="margin-top: 10px;"/>
+  <a href="https://github.com/mahmud-aura">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-aura&theme=github_dark&cache_seconds=86400&hide_border=true" style="margin-top: 10px;"/>
   </a>
   <br>
   <br>
   
-  <a href="https://github.com/mahmudx7">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudx7&show_icons=true&theme=github_dark&line_height=27&cache_seconds=86400&hide_border=true" alt="MahMUD's github stats" style="margin-top: 10px;"/>
+  <a href="https://github.com/mahmud-aura">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmud-aura&show_icons=true&theme=github_dark&line_height=27&cache_seconds=86400&hide_border=true" alt="MahMUD's github stats" style="margin-top: 10px;"/>
   </a>
   <br>
   <br>
 
-  <a href="https://github.com/mahmudx7/hinata-bot-v3">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudx7&repo=hinata-bot-v3&theme=github_dark&cache_seconds=86400&hide_border=true" style="margin-top: 10px;"/>
+  <a href="https://github.com/mahmud-aura/hinata-bot-v3">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmud-aura&repo=hinata-bot-v3&theme=github_dark&cache_seconds=86400&hide_border=true" style="margin-top: 10px;"/>
   </a>
 </p>
