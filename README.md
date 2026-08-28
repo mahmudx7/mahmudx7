@@ -80,7 +80,7 @@
   <br>
   
   <a href="https://github.com/mahmud-aura">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmud-aura&show_icons=true&theme=github_dark&line_height=27&cache_seconds=86400&hide_border=true" alt="MahMUD's github stats" style="margin-top: 10px;"/>
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmud-aura&show_icons=true&theme=github_dark&line_height=27&cache_seconds=86400&hide_border=true" alt="MahMUD's github stats" style="margin-top: 10px;"/>
   </a>
   <br>
   <br>
