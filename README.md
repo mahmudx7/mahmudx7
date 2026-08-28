@@ -25,6 +25,24 @@
 <br/>
 <br/>
 
+## ABOUT ME
+
+<p align="left">
+I'm <b>MahMUD</b> — age doesn't matter, a Full Stack Developer and open-source enthusiast based in Dhaka, Bangladesh. Currently a student.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AGE-Doesn't%20Matter-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LOCATION-Dhaka,%20Bangladesh-000000?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/EDUCATION-HSC%20Complete-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-Just%20Sleeping-000000?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Development-000000?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/INTERESTS-Gym%20·%20Coding%20·%20Anime%20·%20Open%20Source-000000?style=for-the-badge"/>
+</p>
+
 ## 📫 How to reach me:
 
 | Facebook | Youtube | WhatsApp | Portfolio | Gmail |
