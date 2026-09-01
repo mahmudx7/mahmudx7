@@ -12,13 +12,13 @@
 <a href="https://www.facebook.com/mahmudexe">
   <img align="left" alt="MahMUD's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/@mahmudx7">
+<a href="https://www.youtube.com/@mahmud-aura">
   <img align="left" alt="MahMUD's Youtube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://wa.me/8801836298139">
   <img align="left" alt="MahMUD's WhatsApp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a href="https://mahmud-exe.onrender.com/">
+<a href="https://mahmud-aura.is-a.dev/">
   <img align="left" alt="MahMUD's Portfolio" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
 </a>
 
@@ -47,7 +47,7 @@ I'm <b>MahMUD</b> — age doesn't matter, a Full Stack Developer and open-source
 
 | Facebook | Youtube | WhatsApp | Portfolio | Gmail |
 | :---: | :---: | :---: | :---: | :---: |
-| <a href="https://www.facebook.com/mahmudexe"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg" width="200"/></a><p><b><a href="https://www.facebook.com/mahmudexe">MahMUD</a></b></p> | <a href="https://www.youtube.com/@mahmudx7"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg" width="200"/></a><p><b><a href="https://www.youtube.com/@mahmudx7">MahMUD</a></b></p> | <a href="https://wa.me/8801836298139"><img src="https://quickchart.io/qr?text=https%3A%2F%2Fwa.me%2F8801836298139&size=200&margin=1&dark=25D366&centerImageUrl=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F100%2Fwhatsapp--v1.png&centerImageSizeRatio=0.28" width="200"/></a><p><b><a href="https://wa.me/8801836298139">MahMUD</a></b></p> | <a href="https://mahmud-exe.onrender.com/"><img src="https://quickchart.io/qr?text=https%3A%2F%2Fmahmud-exe.onrender.com%2F&size=200&margin=1&dark=4285F4&centerImageUrl=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F100%2Fchrome--v1.png&centerImageSizeRatio=0.28" width="200"/></a><p><b><a href="https://mahmud-exe.onrender.com/">MahMUD</a></b></p> | <a href="mailto:mahmudx077@gmail.com"><img src="https://quickchart.io/qr?text=mailto%3Amahmudx077%40gmail.com&size=200&margin=1&dark=D14836&centerImageUrl=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F100%2Fgmail--v1.png&centerImageSizeRatio=0.28" width="200"/></a><p><b><a href="mailto:mahmudx077@gmail.com">MahMUD</a></b></p> |
+| <a href="https://www.facebook.com/mahmudexe"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg" width="200"/></a><p><b><a href="https://www.facebook.com/mahmudexe">MahMUD</a></b></p> | <a href="https://www.youtube.com/@mahmud-aura"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg" width="200"/></a><p><b><a href="https://www.youtube.com/@mahmud-aura">MahMUD</a></b></p> | <a href="https://wa.me/8801836298139"><img src="https://quickchart.io/qr?text=https%3A%2F%2Fwa.me%2F8801836298139&size=200&margin=1&dark=25D366&centerImageUrl=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F100%2Fwhatsapp--v1.png&centerImageSizeRatio=0.28" width="200"/></a><p><b><a href="https://wa.me/8801836298139">MahMUD</a></b></p> | <a href="https://mahmud-exe.onrender.com/"><img src="https://quickchart.io/qr?text=https%3A%2F%2Fmahmud-exe.onrender.com%2F&size=200&margin=1&dark=4285F4&centerImageUrl=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F100%2Fchrome--v1.png&centerImageSizeRatio=0.28" width="200"/></a><p><b><a href="https://mahmud-aura.is-a.dev/">MahMUD</a></b></p> | <a href="mailto:mahmudx077@gmail.com"><img src="https://quickchart.io/qr?text=mailto%3Amahmudx077%40gmail.com&size=200&margin=1&dark=D14836&centerImageUrl=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F100%2Fgmail--v1.png&centerImageSizeRatio=0.28" width="200"/></a><p><b><a href="mailto:mahmudx077@gmail.com">MahMUD</a></b></p> |
 
 [![GitHub: mahmud-aura](https://img.shields.io/github/followers/mahmud-aura?label=follow&style=social)](https://github.com/mahmud-aura)
 
